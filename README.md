@@ -1,6 +1,6 @@
 # ChatGPT镜像网站推荐：2024最新指南（支持GPT-4，无需翻墙）
 
-> **最后更新：2024/12/07**  
+> **最后更新：2024/12/10**  
 > **关键词：ChatGPT镜像网站、ChatGPT中文版、GPT-4、无需翻墙、免费体验**
 
 想快速访问 ChatGPT，但又被翻墙问题困扰？本指南为您精心整理了 **最新的 ChatGPT 镜像网站**，帮助您无需翻墙即可使用 GPT-4、Claude3 等高级功能，畅享智能对话体验。
@@ -27,7 +27,7 @@
 |----------------------|--------------------------------|-------------------|--------------------------|--------------------|
 | **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, Claude3     | 支持 AI 绘图、实时翻译      | 5         |
 | **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)        | GPT-4, GPT-4o      | 提供语音输入、实时对话       | 10          |
-| **熊猫 GPT**         | [ai-panda.xyz](https://ai-panda.xyz)    | GPT-4, GPT-3.5     | 稳定高速、支持 API 调用      | 无           |
+| **熊猫 GPT**         | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)    | GPT-4, GPT-3.5     | 稳定高速、支持 API 调用      | 无           |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online)  | GPT-3.5            | 界面简洁、新手友好           | 无         |
 
 ### 推荐理由
